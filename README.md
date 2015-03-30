@@ -7,7 +7,7 @@ Class project for testing the DLink-DCS-5009L
  
  -Kali Linux (everyone, download iso from https://www.kali.org/downloads/)
  
- -Network cables (Ralph)
+ -Network cables (everyone)
  
  -Network tap (Gerardo)
  
