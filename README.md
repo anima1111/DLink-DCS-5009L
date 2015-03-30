@@ -3,9 +3,9 @@ Class project for testing the DLink-DCS-5009L
 
 ## Materials for class:
  
- -Laptops (everyone).
+ -Laptops (everyone)
  
- -Kali Linux (everyone, download iso from https://www.kali.org/downloads/).
+ -Kali Linux (everyone, download iso from https://www.kali.org/downloads/)
  
  -Network cables (Ralph)
  
